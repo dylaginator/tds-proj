@@ -1,0 +1,1 @@
+export {currencyValidator} from './currencyValidator';
